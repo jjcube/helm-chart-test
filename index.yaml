@@ -3,11 +3,11 @@ entries:
   apache:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: 2022-04-11T12:17:55.810904183Z
+    created: 2022-04-11T12:44:13.796796653Z
     description: A Helm chart for Kubernetes
     digest: dd320229e4569ea00549953f696265c4df52fc119500bba9280bd041ea742898
     name: apache
     urls:
-    - https://github.com/jjcube/helm-chart-test/apache-0.1.0.tgz
+    - https://jjcube.github.io/helm-chart-test/apache-0.1.0.tgz
     version: 0.1.0
-generated: 2022-04-11T12:17:55.804863039Z
+generated: 2022-04-11T12:44:13.794885667Z
